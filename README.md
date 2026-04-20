@@ -1059,3 +1059,144 @@ A self-assessment tool to become more self-aware and "fit for work."
 - Inspire → Challenge  
 
 ---
+
+### Section 4: Delivery Skills: Verbal & Non-Verbal Communication
+
+**Verbal Delivery (7% of impact):**
+
+- **Clarity:** Speak clearly, avoid jargon.
+- **Pace:** Vary speed for emphasis.
+- **Pause:** Use silence to highlight points.
+- **Tone & Modulation:** Change pitch to maintain interest.
+- **Word Emphasis:** Stress key terms.
+
+**Non-Verbal Delivery (93% of impact):**
+
+- **Body Language (55%):**
+  - Confident posture (stand tall, balanced)
+  - Open gestures (palms visible, purposeful movement)
+  - Eye contact (3–5 seconds per person)
+  - Facial expressions (smile, show enthusiasm)
+- **Voice Tone (38%):**
+  - Warmth, energy, and conviction matter more than words alone.
+
+**What to Avoid:**
+
+- Fidgeting, crossed arms, poor posture
+- Reading slides word-for-word
+- Monotone voice
+- Failing to manage time
+- Ignoring audience cues
+
+---
+
+### Section 5: Visual Aids & Slide Design (PowerPoint Best Practices)
+
+| **Do ✅** | **Don't ❌** |
+|---|---|
+| Use **high-quality images** that support your message | Use low-resolution or clipart images |
+| Limit text to **3–7 bullet points per slide** | Crowd slides with paragraphs |
+| Use **large, simple fonts** (e.g., Arial, Calibri) | Use decorative or small fonts |
+| Stick to **5 colors max** in a consistent scheme | Create a "rainbow" of clashing colors |
+| Use **charts/graphs** to visualize data | Overcomplicate visuals with too much detail |
+| Ensure **high contrast** (dark text on light background or vice versa) | Use light text on light backgrounds |
+
+**Rule:** Slides are a **visual aid**, not a script. You are the presentation.
+
+---
+
+### Section 6: Essential Qualities of a Great Presenter (Linked to Leadership)
+
+| **Quality** | **Why It Matters in Presenting** |
+|---|---|
+| **Clarity & Vision** | You present with purpose and direction. |
+| **Emotional Intelligence** | You read the room and adjust tone/energy. |
+| **Adaptability** | You handle technical issues or audience questions smoothly. |
+| **Integrity & Authenticity** | You build trust and credibility. |
+| **Empowerment** | You engage the audience and make them feel included. |
+
+---
+
+### Section 7: Technical & Logistical Preparation
+
+**Before the Presentation:**
+
+- **Test equipment** (projector, mic, laptop, clicker).
+- **Have a backup** (USB copy, printed notes, cloud access).
+- **Check venue** (lighting, seating, acoustics).
+- **Practice timing** to stay within limits.
+
+**During the Presentation:**
+
+- Arrive early to set up.
+- Turn off phone notifications.
+- Have water nearby.
+- Use notes discreetly (cue cards vs. reading).
+
+---
+
+### Section 8: Practical Tools & Templates
+
+**Presentation Preparation Checklist:**
+
+- Purpose defined
+- Audience analyzed
+- Key message crafted
+- Structure outlined (Intro/Body/Conclusion)
+- Slides designed (visual, not textual)
+- Opening and closing rehearsed
+- Time trial completed
+- Tech check completed
+- Backup plan ready
+- Outfit chosen (professional, comfortable)
+
+**Slide Design Rubric:**
+
+- **Clarity:** Can the audience grasp the point in 5 seconds?
+- **Visual Appeal:** Is it clean, professional, and on-brand?
+- **Relevance:** Does every element support the message?
+- **Simplicity:** Is there minimal text and maximal impact?
+
+**Useful Phrases:**
+
+- **Opening:** "Good morning, my name is… Today I'll show you…"
+- **Transitions:** "Moving on to…", "Now let's consider…"
+- **Emphasizing:** "The key point here is…", "What's important to remember…"
+- **Closing:** "To summarize…", "I leave you with this challenge/question…"
+
+---
+
+### Section 9: Common Mistakes & How to Avoid Them
+
+| **Mistake** | **How to Fix** |
+|---|---|
+| **Reading slides** | Use slides as prompts, not scripts. |
+| **Ignoring the audience** | Make eye contact, ask questions, check engagement. |
+| **Running over time** | Practice with a timer; cut content if needed. |
+| **Weak opening/closing** | Script and rehearse your first and last 60 seconds. |
+| **Poor slide design** | Follow the 5-color, 3–7 bullet rule; use images. |
+| **Nervous habits** | Record yourself; practice grounding techniques (breathe, pause). |
+
+---
+
+### Section 10: Continuous Improvement
+
+- **Record yourself** and watch for verbal fillers ("um," "like") and body language.
+- **Seek feedback** from peers or mentors.
+- **Watch great speakers** (TED Talks, industry leaders) and analyze their techniques.
+- **Practice in low-stakes settings** (team meetings, study groups).
+- **Reflect after each presentation:** What worked? What could be better?
+
+---
+
+### Section 11: Key Takeaways for Engineering & Technical Presenters
+
+- **Simplify Complexity:** Use analogies, visuals, and stories to make technical content accessible.
+- **Focus on the "So What?":** Always link data to impact, benefit, or action.
+- **Be the Expert, Not the Robot:** Show passion and context behind the numbers.
+- **Anticipate Questions:** Prepare for technical doubts and stakeholder concerns.
+- **Show Don't Just Tell:** Use demos, prototypes, or simulations when possible.
+
+> **Final Reminder:** A great presentation is a blend of **clear content, compelling delivery, and authentic connection.** It's a skill built through preparation, practice, and reflection.
+
+---
