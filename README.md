@@ -10,6 +10,7 @@
 6. [Critical Thinking & Problem Solving](#6-critical-thinking--problem-solving)
 7. [Maintaining a Professional Online Image](#7-maintaining-a-professional-online-image)
 8. [Fit for Work](#8-fit-for-work)
+9. [Presentation Skills](#9-presentation-skills)
 
 ---
 
@@ -978,5 +979,83 @@ A self-assessment tool to become more self-aware and "fit for work."
 | **W** | Weaknesses | Internal areas for improvement (e.g., procrastination, fear of failure). |
 | **O** | Opportunities | External factors you can leverage (e.g., training courses, networking). |
 | **T** | Threats | External challenges you may face (e.g., economic instability, strong competition). |
+
+---
+
+
+---
+
+> ## 9. Presentation Skills
+
+### Section 1: Why Presentation Skills Matter
+
+#### For Everyone
+
+- **Essential Communication:** Convey ideas clearly and persuasively.  
+- **Professionalism & Credibility:** Reflects competence and confidence.  
+- **Career Advancement:** Valued in interviews, pitches, leadership, and client interactions.  
+- **Influence & Persuasion:** Crucial for selling ideas, products, or projects.  
+- **Engagement:** Captures attention and improves information retention.  
+
+#### For Engineers & Technical Professionals
+
+- **Technical Clarity:** Ability to explain complex concepts to non-experts.  
+- **Project Advocacy:** Securing buy-in from stakeholders and clients.  
+- **Team Collaboration:** Presenting findings and proposals clearly.  
+- **Leadership Visibility:** Demonstrating thought leadership and vision.  
+
+---
+
+### Section 2: The PASS Framework
+
+| **Element** | **Key Questions** | **Actions** |
+|---|---|---|
+| **Purpose** | Why am I presenting? What should the audience do/think/feel afterward? | Define: To Inform, Persuade, Convince, Inspire, or Entertain |
+| **Audience** | Who are they? What do they know? What do they need? | Research their level, interests, expectations, and demographics |
+| **Structure** | How will I organize my content? | Use Intro → Body → Conclusion (TEEL method for body) |
+| **Style** | How will I deliver it? | Match tone and delivery to audience and purpose |
+
+---
+
+### Section 3: Structure of a Winning Presentation
+
+#### A. Opening / Introduction (10%)
+
+**Goal:** Grab attention, establish credibility, state your purpose  
+
+**Techniques:**
+- Startling statistic  
+- Story or anecdote  
+- Thought-provoking question  
+- Quote  
+- Personal connection  
+
+---
+
+#### B. Body (80%)
+
+**Goal:** Deliver key message clearly  
+
+**Use TEEL Method**
+
+| **Component** | **Description** | **Example** |
+|---|---|---|
+| Topic | State main idea | Regular exercise boosts productivity |
+| Explanation | Clarify idea | Improves focus and energy |
+| Example | Provide evidence | Study shows 15% increase |
+| Link | Connect to main message | Health impacts work success |
+
+**Note:** Limit main points to 3–5  
+
+---
+
+#### C. Conclusion (10%)
+
+**Goal:** Reinforce message and end strongly  
+
+- Inform → Recap  
+- Persuade → Call to action  
+- Convince → Restate benefit  
+- Inspire → Challenge  
 
 ---
